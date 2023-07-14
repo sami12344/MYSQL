@@ -1,0 +1,2 @@
+-- SELECT COUNT (*) FROM Exam
+SELECT COUNT (DISTINCT city) AS count FROM Exam

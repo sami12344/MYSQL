@@ -1,0 +1,1 @@
+SELECT sum(percentage) AS Total from exam

@@ -1,0 +1,1 @@
+SELECT MIN(percentage) AS Percentage FROM Exam

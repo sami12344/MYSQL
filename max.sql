@@ -1,0 +1,1 @@
+SELECT MAX (percentage) As Percentage FROM Exam
