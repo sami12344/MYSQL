@@ -1,0 +1,1 @@
+SELECT p.id,p.name,p.percentage,p.age,p.gender,c.cityname FROM persons p RIGHT JOIN city c ON p.city = c.cid
