@@ -1,1 +1,1 @@
-SELECT * FROM students.personal
+SELECT * FROM students.PersonalWithConstraints

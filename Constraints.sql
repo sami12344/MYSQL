@@ -1,0 +1,8 @@
+CREATE TABLE PersonalWithConstraints(
+ id INT NOT NULL UNIQUE,
+ name VARCHAR(50) NOT NULL,
+ age INT NOT NULL CHECK (age>=18),
+ gender VARCHAR(1) not NULL,
+ phone VARCHAR(10) NOT NULL UNIQUE,
+ city VARCHAR(15) NOT NULL DEFAULT "Agra"
+)
