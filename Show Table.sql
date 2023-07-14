@@ -1,1 +1,1 @@
-SELECT * FROM students.product
+SELECT * FROM students.personal
