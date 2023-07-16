@@ -1,0 +1,1 @@
+SELECT CEIL (1.25)

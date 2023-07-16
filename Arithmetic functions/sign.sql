@@ -1,0 +1,1 @@
+SELECT SIGN(-3.25)
