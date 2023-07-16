@@ -1,0 +1,1 @@
+SELECT CONCAT("sami","islam") as name

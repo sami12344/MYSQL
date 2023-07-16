@@ -1,0 +1,1 @@
+SELECT SPACE(100) AS name

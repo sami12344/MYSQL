@@ -1,0 +1,1 @@
+SELECT SUBSTRING_INDEX('Sami Islam','i',1) AS Name

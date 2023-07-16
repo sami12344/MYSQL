@@ -1,0 +1,1 @@
+SELECT MID("Sami Islam",-6,3) AS Name

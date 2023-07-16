@@ -1,0 +1,1 @@
+SELECT POSITION("Islam" IN "Sami Islan Islam") AS Name

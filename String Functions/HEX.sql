@@ -1,0 +1,1 @@
+SELECT HEX("Sami Islam") AS HEX

@@ -1,0 +1,1 @@
+SELECT RTRIM("         Sami Islam                                    ") AS name

@@ -1,0 +1,1 @@
+SELECT REVERSE("Sami Islam")

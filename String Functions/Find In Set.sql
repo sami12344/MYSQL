@@ -1,0 +1,1 @@
+SELECT FIND_IN_SET('ram', "Ram,Mohan,Shyam")

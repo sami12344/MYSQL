@@ -1,0 +1,1 @@
+SELECT RIGHT("Sami Islam",3)

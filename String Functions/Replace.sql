@@ -1,0 +1,1 @@
+SELECT REPLACE ("Sami Islam","Islam","Sadiq") AS name

@@ -1,0 +1,1 @@
+SELECT RPAD("Sami Islam",20,"a ") AS name

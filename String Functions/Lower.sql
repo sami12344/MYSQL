@@ -1,0 +1,1 @@
+SELECT id, LCASE(name) AS name, age from student

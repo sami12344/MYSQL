@@ -1,0 +1,1 @@
+SELECT LEFT ("Sami Islam",5) AS Name

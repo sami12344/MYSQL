@@ -1,0 +1,1 @@
+SELECT SUBSTRING("Sami Islam",3, 5) AS Name

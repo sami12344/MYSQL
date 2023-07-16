@@ -1,0 +1,1 @@
+SELECT id, UPPER(name) as NAME, age from student
