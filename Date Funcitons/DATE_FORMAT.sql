@@ -1,0 +1,1 @@
+SELECT DATE_FORMAT("2019-06-15","%d-%c-%Y, %W")

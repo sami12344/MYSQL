@@ -1,0 +1,1 @@
+SELECT STR_TO_DATE("July 10 2019", "%M %d %Y")
