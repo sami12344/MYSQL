@@ -1,0 +1,1 @@
+DROP INDEX studage ON students
